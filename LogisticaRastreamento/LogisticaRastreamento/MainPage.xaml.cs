@@ -1,3 +1,4 @@
+/* Eduarda Vitória e Stefany Tam */
 ﻿using LogisticaRastreamento.ViewModels;
 
 namespace LogisticaRastreamento
@@ -17,7 +18,15 @@ namespace LogisticaRastreamento
         {
             string codigoRastreamento = CodigoRastreamentoEntry.Text;
             await ViewModel.BuscarInformacoesPacoteAsync(codigoRastreamento);
-            await Navigation.PushAsync(new ResultadosPage { BindingContext = ViewModel });
+
+            if (ViewModel.Pacote != null)
+            {
+                await Navigation.PushAsync(new ResultadosPage { BindingContext = ViewModel });
+            } 
+            else
+            {
+                CodigoRastreamentoEntry.Text = "";
+            }
         }
 
     }

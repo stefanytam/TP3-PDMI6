@@ -1,3 +1,4 @@
+/* Eduarda Vitória e Stefany Tam */
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
