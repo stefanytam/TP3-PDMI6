@@ -1,3 +1,4 @@
+/* Eduarda Vitória e Stefany Tam */
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,6 @@ namespace LogisticaRastreamento.ViewModels
 
         private List<PacoteModel> _pacotes;
         private PacoteModel _pacote;
-        private string mensagemErro;
 
         public List<PacoteModel> Pacotes
         {
@@ -33,16 +33,6 @@ namespace LogisticaRastreamento.ViewModels
             set
             {
                 _pacote = value;
-                OnPropertyChanged();
-            }
-        }
-
-        public string MensagemErro
-        {
-            get { return mensagemErro; }
-            set
-            {
-                mensagemErro = value;
                 OnPropertyChanged();
             }
         }

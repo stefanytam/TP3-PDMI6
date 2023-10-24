@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\eduarda.matias\Downloads\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-24T18:11:55.308</Modified>
+      <Modified>2023-10-24T18:35:46.570</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\Downloads\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-10-24T18:11:54.420</Modified>
+      <Modified>2023-10-24T18:35:45.917</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\Downloads\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LogisticaRastreamento.runtimeconfig.json">
       <PackagePath>LogisticaRastreamento.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\Downloads\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LogisticaRastreamento.dll">
       <PackagePath>LogisticaRastreamento.dll</PackagePath>
-      <Modified>2023-10-24T18:11:50.743</Modified>
+      <Modified>2023-10-24T18:35:42.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\Downloads\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>LogisticaRastreamento.exe</PackagePath>
-      <Modified>2023-10-24T18:11:50.776</Modified>
+      <Modified>2023-10-24T18:35:42.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\Downloads\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LogisticaRastreamento.deps.json">
       <PackagePath>LogisticaRastreamento.deps.json</PackagePath>

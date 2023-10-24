@@ -1,3 +1,4 @@
+/* Eduarda Vitória e Stefany Tam */
 ﻿using Android.App;
 using Android.Content.PM;
 using Android.OS;
